@@ -1,8 +1,0 @@
-{
-  "rewrites": [
-    {
-      "source": "/Simple-Hub",
-      "destination": "/api/Simple-Hub"
-    }
-  ]
-}
