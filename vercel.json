@@ -1,8 +1,5 @@
 {
   "rewrites": [
-    {
-      "source": "/Simple-Hub",
-      "destination": "/api/Simple-Hub"
-    }
+    { "source": "/Simple-Hub", "destination": "/api/main.js" }
   ]
 }
